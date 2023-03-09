@@ -19,15 +19,15 @@
 
 # original Scores from beginning of season
 playerStats = {
-    #jake Pat
+
     "player1":[3,5,5,4,5,5,1,0],
-    #Jake E
+    
     "player2":[5,4,4,4,5,4,1,0],
-    #Max
+    
     "player3":[4,5,5,5,5,5,1,0],
-    #Eli
+    
     "player4":[2,3,5,3,3,5,1,0],
-    #Mase
+    
     "player5":[2,4,4,4,3,4,1,0]
 }
 
